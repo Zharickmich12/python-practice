@@ -1,6 +1,4 @@
-# TALLER 3 PYTHON  
-# AUTORA: Zharick Fetecua
-# FECHA: 12/08/2025
+# TALLER 3 PYTHON 
 
 from datetime import date
 
@@ -9,9 +7,7 @@ hoy = date.today()
 print("Hoy es el día:", hoy)
 print()
 
-# ---------------------------------------
 # Comparación entre dos números
-# ---------------------------------------
 
 a = int(input("Digite el valor de A: "))
 b = int(input("Digite el valor de B: "))
@@ -23,9 +19,7 @@ else:
 
 print()
 
-# ---------------------------------------
 # Validación de cursos
-# ---------------------------------------
 
 curso1 = "Requerimientos"
 curso2 = "Algoritmos"
@@ -42,9 +36,7 @@ print()
 print("** Final del Análisis del Programa de Formación SENA **")
 print()
 
-# ---------------------------------------
 # Trabajo con cadenas
-# ---------------------------------------
 
 frase = input("Digite una oración: ")
 
