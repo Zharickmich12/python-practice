@@ -1,6 +1,6 @@
 # Python Practice
 
-Repositorio con apuntes y talleres realizados durante el curso de variables y estrcuturas de control en python.
+Repositorio con apuntes y talleres realizados durante el curso de variables y estructuras de control en python.
 
 ---
 
